@@ -1,0 +1,21 @@
+{
+  "name": "abstract-dark",
+  "displayName": "Abstract Dark",
+  "description": "Dark color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Abstract Dark Mode",
+        "uiTheme": "hc-black",
+        "path": "./themes/Abstract Dark Mode-color-theme.json"
+      }
+    ]
+  }
+}
